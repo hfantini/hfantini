@@ -1,9 +1,9 @@
-#DESCRIPTION
+# DESCRIPTION
 --
 
 The Fundamentalist software engineer who believes it's the basics of computing that define the best IT professionals.
 
-#LINKS
+# LINKS
 --
 
 [Personal Website](https://www.henriquefantini.com "Personal Website")
